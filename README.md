@@ -65,5 +65,7 @@ gantt
     25      :a11, after a9  , 25d
     
     ```
+**(3)關鍵路徑**
+![流程02](https://user-images.githubusercontent.com/113968584/195105231-8664962d-437f-4bc6-9488-990c49ef0c1d.png)
 
 
