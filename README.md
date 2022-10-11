@@ -25,12 +25,11 @@
 **(1) PERT/CPM 圖**
 ![![來源]([https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo
 ))](https://user-images.githubusercontent.com/113968584/195103123-81a1feda-df32-4eac-8ef1-b95930c83d1c.png)
----
 **(2) 甘特圖**
 ```mermaid
 gantt
     title 甘特圖
-
+    
     section 研擬計畫
     1       :a1, 2014-01-01, 1d
    
@@ -64,8 +63,9 @@ gantt
     section 使用者測試
     25      :a11, after a9  , 25d
     
-    ```
+```
 **(3)關鍵路徑**
-![流程02](https://user-images.githubusercontent.com/113968584/195105231-8664962d-437f-4bc6-9488-990c49ef0c1d.png)
+![![來源]([https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo
+))](https://user-images.githubusercontent.com/113968584/195105231-8664962d-437f-4bc6-9488-990c49ef0c1d.png)
 
 
